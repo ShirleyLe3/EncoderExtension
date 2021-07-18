@@ -25,9 +25,7 @@ To Run the Script:
 
 ## [Installation Guide](https://github.com/)
 
-| <p align="center"><a href="https://pypi.org/project/ciphey">🐍 Python | --------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |--------------------------------------------------------------------------------- |
-| <p align="center"><img src="https://github.com/Ciphey/Ciphey/raw/master/Pictures_for_README/python.png" /></p>    | 
-
+| <p align="center"><a href="https://pypi.org/project/ciphey">🐍 Python |
 
 # 🤔 What is this?
 
@@ -61,11 +59,11 @@ There are 3 ways to run.
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<table>
+<!-- <table>
   <tr>
     <td align="center"><a href="https://github.com/Cyclic3"><img src="https://avatars1.githubusercontent.com/u/15613874?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cyclic3</b></sub></a><br /><a href="#design-cyclic3" title="Design">🎨</a> <a href="#maintenance-cyclic3" title="Maintenance">🚧</a> <a href="https://github.com/Ciphey/Ciphey/commits?author=cyclic3" title="Code">💻</a> <a href="#ideas-cyclic3" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
-</table> -->
+</table> --> -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! -->
