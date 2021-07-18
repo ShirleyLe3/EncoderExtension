@@ -15,11 +15,6 @@ File Descriptions:
 To Run the Script:
 
 <p align="center">
-Translations <br>
-<a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/README.md>🇩🇪 DE   </a>
-<a href=https://github.com/Ciphey/Ciphey/tree/master/translations/fr/README.md>🇫🇷 FR   </a>
-
-<p align="center">
 <img src="https://pepy.tech/badge/ciphey">
  <img src="https://pepy.tech/badge/ciphey/month">
   <a href="https://discord.gg/zYTM3rZM4T"><img alt="Discord" src="https://img.shields.io/discord/754001738184392704"></a>
@@ -30,8 +25,7 @@ Translations <br>
 
 ## [Installation Guide](https://github.com/)
 
-| <p align="center"><a href="https://pypi.org/project/ciphey">🐍 Python 
-| --------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |--------------------------------------------------------------------------------- |
+| <p align="center"><a href="https://pypi.org/project/ciphey">🐍 Python | --------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |--------------------------------------------------------------------------------- |
 | <p align="center"><img src="https://github.com/Ciphey/Ciphey/raw/master/Pictures_for_README/python.png" /></p>    | 
 
 
@@ -49,16 +43,16 @@ Input encrypted text, get the decrypted text back. It aims to be a tool to autom
 - **Custom Built Artificial Intelligence with Augmented Search (AuSearch) for answering the question "what encryption was used?"** Resulting in decryptions taking less than 3 seconds.
 
 
-# 🔭 Ciphey vs CyberChef
+# 🔭 Encoder Extension
 
-## 🏃‍♀️Running Ciphey
+<!-- ## 🏃‍♀️Running File
 
 There are 3 ways to run.
 
 1. File Input `ciphey -f encrypted.txt`
 2. Unqualified input `ciphey -- "Encrypted input"`
 3. Normal way `ciphey -t "Encrypted input"`
-
+ -->
 <!-- ![Gif showing 3 ways to run Ciphey](https://github.com/Ciphey/Ciphey/raw/master/Pictures_for_README/3ways.gif) -->
 
 
